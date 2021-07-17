@@ -2,3 +2,4 @@
 Competitive coding Milestones | LeanIn_July2021
 
 This repository will contain : Milestone#1, Milestone#2, Milestone#3, Milestone#4
+Milestone#1: Array and Strings 
